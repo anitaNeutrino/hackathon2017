@@ -10,7 +10,7 @@ url=$url_uchicago
 
 mkdir -p data/run$run
 curl $url/SimulatedAnitaEventFile.root > data/run$run/SimulatedAnitaEventFile$run.root
-curl $url/SimulatedAnitaHeadFile.root > data/run$run/SimulatedAnitaHeadtFile$run.root
+curl $url/SimulatedAnitaHeadFile.root > data/run$run/SimulatedAnitaHeadFile$run.root
 curl $url/SimulatedAnitaTruthFile.root > data/run$run/SimulatedAnitaTruthFile$run.root
 curl $url/SimulatedAnitaGpsFile.root > data/run$run/SimulatedAnitaGpsFile$run.root
 
