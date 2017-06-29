@@ -5,6 +5,8 @@
   gSystem->Load("${ANITA_UTIL_INSTALL_DIR}/lib/libAnitaCorrelator.so") && gSystem->Load("$ANITA_UTIL_INSTALL_DIR/lib/libAnitaCorrelator.dylib"); 
   gSystem->Load("${ANITA_UTIL_INSTALL_DIR}/lib/libAnitaAnalysis.so") && gSystem->Load("$ANITA_UTIL_INSTALL_DIR/lib/libAnitaAnalysis.dylib"); 
   gSystem->Load("${ANITA_UTIL_INSTALL_DIR}/lib/libUCorrelator.so") && gSystem->Load("$ANITA_UTIL_INSTALL_DIR/lib/libUCorrelator.dylib"); 
+  gSystem->Load("${ANITA_UTIL_INSTALL_DIR}/lib/libAnitaAnalysisTools.so") && gSystem->Load("$ANITA_UTIL_INSTALL_DIR/lib/libAnitaAnalysisTools.dylib"); 
+  gSystem->Load("${ANITA_UTIL_INSTALL_DIR}/lib/libAnitaMagicDisplay.so") && gSystem->Load("$ANITA_UTIL_INSTALL_DIR/lib/libAnitaMagicDisplay.dylib"); 
  
 
   /** prettier plots */ 
