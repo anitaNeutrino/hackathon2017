@@ -70,9 +70,9 @@ root [6] d.header()->triggerTime
 ```
 
 
-##ANITA versions
+## ANITA versions
 
-Currently, it is possible to use both ANITA-3 and ANITA-4 data with the same softare. In general you can set or get using `AnitaVersion::set()` and `AnitaVersion::get().`  When you use `AnitaDataset` it should detect the appropriate version based on the timestamp (even for MC data!). 
+Currently, it is possible to use both ANITA-3 and ANITA-4 data with the same software. In general you can set or get using `AnitaVersion::set()` and `AnitaVersion::get().`  When you use `AnitaDataset` it should detect the appropriate version based on the timestamp (even for MC data!). 
 
 ```
 root [7] AnitaVersion::get()
