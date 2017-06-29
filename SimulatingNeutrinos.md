@@ -30,7 +30,8 @@ move to the icemc main directory and create a symbolic link to the executable:
 
 
 From the command line do
-``` ./icemc -i {inputFile} -o {outputDirectory} -r {runNumber} -n {numberOfNeutrinos}  -e {energyExponent}
+```
+./icemc -i {inputFile} -o {outputDirectory} -r {runNumber} -n {numberOfNeutrinos}  -e {energyExponent}
 ```
 If parameters are not specified
 
