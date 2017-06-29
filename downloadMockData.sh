@@ -1,4 +1,4 @@
-#! /bin/sh 
+#! /usr/bin/env sh 
 # This script downloads the mock ANITA dataset used at the Hackathon
 # This dataset consists of minbias ANITA-3 triggers with some neutrinos added in some places
 # Your mission is to find the neutrinos! 
