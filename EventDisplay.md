@@ -20,6 +20,3 @@ root doMagicDisplay.C
 
 
 
-
-
-I am speaking something here...
