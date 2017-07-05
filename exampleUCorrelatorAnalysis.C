@@ -1,6 +1,6 @@
 /* simple example of how to fill an output tree with UCorrelator. 
  *
- * To run this, Set ANITA_ROOT_DATA to the mata downloaded by the script in this directory. 
+ * To run this, Set ANITA_ROOT_DATA to the data downloaded by the script in this directory. 
  *
  * Otherwise you'll get an ugly crash
  *
